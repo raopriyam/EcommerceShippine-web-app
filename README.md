@@ -72,5 +72,5 @@ Room for improvement:
 -	Forgot password functionality should also be there. So, it would need to send the email with ne link or temporary password. 
 This is all I can come up with now.  There might be a few more ways we can make this even better. 
 
-Deployment:
-Unfortunately, I am not able to deploy this application. I am not very good with the deployment process. Within the context of my project, the DevOps team has constructed the pipeline that is used to distribute the code in Kubetnets clusters. I am interested in learning more about the Docker and Kubernetes technologies, so I am currently investigating how they work. So, I were to try to deploy this now it would take a lot more time. So I am submitting this for now. 
+**Deployment:
+Unfortunately, I am not able to deploy this application. I am not very good with the deployment process. Within the context of my project, the DevOps team has constructed the pipeline that is used to distribute the code in Kubetnets clusters. I am interested in learning more about the Docker and Kubernetes technologies, so I am currently investigating how they work. So, I were to try to deploy this now it would take a lot more time. So I am submitting this for now. **

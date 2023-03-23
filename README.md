@@ -45,7 +45,7 @@ If the user isn’t signed up, they can sign up on this page. All the fields in 
 
 Inventory Page
  
-This is the inventory page where the user can check the products and their ship On Weekends values and the shipping date by entering the order date. 
+There is the inventory page where the user can check the products and their ship On Weekends values and the shipping date by entering the order date. 
 
 
 
